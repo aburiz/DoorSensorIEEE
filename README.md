@@ -100,5 +100,3 @@ Additionally, a Discord bot is used to update a channel's name in real-time, dis
 ## Log Deletion
 Logs older than 1 day are deleted to prevent overuse of Supabase storage. The deletion process runs as a scheduled task in Supabase.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
